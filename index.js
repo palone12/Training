@@ -11,3 +11,7 @@ var password = "****";
 let userName = "Palone23";
 
 console.table([firstName, lastName, accountId, email, password, userName]);
+
+// Data Types In Javascript
+// Primitive -  Number , String , Boolean , Null, Undefined , bigInt ,
+// Non - Primitive - Objects
