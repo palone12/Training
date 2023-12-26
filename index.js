@@ -15,3 +15,5 @@ console.table([firstName, lastName, accountId, email, password, userName]);
 // Data Types In Javascript
 // Primitive -  Number , String , Boolean , Null, Undefined , bigInt ,
 // Non - Primitive - Objects
+
+console.log('Hello Javascript')
