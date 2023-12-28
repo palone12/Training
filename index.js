@@ -44,3 +44,8 @@ console.log(anotherName);
 
 // Stack - Used for Primitive Data type
 // Heap - Used for non primitive data type
+
+// Numbers and Maths in Javascript
+
+const score = 232;
+const balance = new Number(32);
