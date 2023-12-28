@@ -30,3 +30,17 @@ printMyName("Pranay");
 
 const nameOfPerson = "Pranay Alone"; // Using Single Quote
 const nameoFPerson2 = "Anjali Joshi "; // Using Double Quote
+
+const anotherName = new String("small");
+console.log(anotherName.toUpperCase());
+console.log(anotherName);
+
+// Usage of Backticks
+
+console.log(`${nameoFPerson2} is friend of ${nameOfPerson}`);
+console.log(anotherName);
+
+// Memeory in Jacascript
+
+// Stack - Used for Primitive Data type
+// Heap - Used for non primitive data type
