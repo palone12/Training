@@ -16,4 +16,17 @@ console.table([firstName, lastName, accountId, email, password, userName]);
 // Primitive -  Number , String , Boolean , Null, Undefined , bigInt ,
 // Non - Primitive - Objects
 
-console.log('Hello Javascript')
+console.log("Hello Javascript");
+
+// Function in Javascript
+
+function printMyName(name) {
+  console.log("Hello my name is --->  " + name);
+}
+
+printMyName("Pranay");
+
+// Strings in Javascript
+
+const nameOfPerson = "Pranay Alone"; // Using Single Quote
+const nameoFPerson2 = "Anjali Joshi "; // Using Double Quote
