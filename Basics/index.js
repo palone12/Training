@@ -49,3 +49,18 @@ console.log(anotherName);
 
 const score = 232;
 const balance = new Number(32);
+
+console.log(Math.abs(-4)); // Convert negative to positve and not vice versa
+console.log(Math.round(4.6));
+//Choosing Top Value
+
+console.log(Math.ceil(2.1));
+//choosing lower value
+console.log(Math.floor(2.1));
+
+// Dates in Javascript
+// Date is of type Object**
+let myDate = new Date();
+console.log(myDate.toString());
+console.log(myDate.toDateString());
+console.log(myDate.toTimeString());
