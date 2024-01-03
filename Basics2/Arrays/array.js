@@ -3,7 +3,7 @@ const dc = ["superman", "flash"];
 
 // bad way of merging
 
-// marvel.push(dc); // it does not conacat acutally is put as it as aray
+// marvel.push(dc);  // it does not conacat acutally is put as it as aray
 
 console.log(marvel);
 
