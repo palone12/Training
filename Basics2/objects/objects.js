@@ -16,3 +16,14 @@ console.log(newObj);
 
 const obj3 = { ...newObj, ...person };
 console.log(obj3);
+
+//Destructureing
+
+const course = {
+  name: "Python",
+  fess: 500,
+  duration: "6months",
+};
+
+const { name } = course;
+console.log(name);

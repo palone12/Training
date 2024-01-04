@@ -35,3 +35,15 @@
 #### ex - const obj = {1:'a} const obj2 = {2:'b'}
 
 ### const newObj = Object.assign({} , obj, obj2)
+
+## DE structuring of Objects
+
+## const course = {
+
+    name:'Python',
+    fess:500,
+    duration:'6months'
+
+}
+
+#### const {name} = course // this is the DE structuring of the object
