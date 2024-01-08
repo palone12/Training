@@ -8,4 +8,3 @@ function calculateCartItem(val1, val2, ...args) {
 }
 
 console.log(calculateCartItem(1, 23, 3));
-console.log(calculateCartItem(1, 23, 3));
