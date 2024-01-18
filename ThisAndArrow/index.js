@@ -11,3 +11,5 @@ person.print();
 
 
 // Difference in Arrow function and normal function 
+// this in arrow function is pointing towrads the global object and in normal fucntion  it is pointing towards the object it is part of 
+
